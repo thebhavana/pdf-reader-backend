@@ -1,0 +1,10 @@
+Django>=4.2
+djangorestframework
+python-dotenv
+django-cors-headers
+PyMuPDF
+openai
+faiss-cpu
+numpy
+uvicorn
+gunicorn
